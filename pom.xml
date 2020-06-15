@@ -27,7 +27,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>space.banka.alyona.vigo.MyApp</mainClass>
+                        <mainClass>space.banka.alyona.vigo.Main</mainClass>
                     </manifest>
                 </archive>
             </configuration>
